@@ -1,6 +1,5 @@
 target
 **/*.rs.bk
-.env
 .DS_Store
 .tools
 _temp_spider_downloads
@@ -20,3 +19,5 @@ spider/tests/fixtures/
 
 # Local Claude Code tooling
 .claude/
+config.bat
+node_modules
